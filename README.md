@@ -31,6 +31,8 @@ langchain-openai
 Sample Input/Output:
 
 You: What is LangChain used for?
+
+
 🤖 Bot: LangChain is a framework designed to simplify the development of applications powered by language models...
 
 You: exit
